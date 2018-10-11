@@ -1,0 +1,10 @@
+Package: RcppJson
+Type: Package
+Title: JSON for Modern C++ 
+Version: 0.1.0
+Author: Niels Lohmann <mail@nlohmann.me>
+Maintainer: Neal Fultz <nfultz@gmail.com>
+Description: This is a JSON library for C++ with intuitive syntax, trivial integration and serious testing.
+License: MIT
+Encoding: UTF-8
+LazyData: true
