@@ -1,6 +1,6 @@
 # RcppJson
 
-This provides Niels Lohmann's excellent json[1] library for Rcpp.  All credit goes to him.
+This provides Niels Lohmann's excellent [json library](https://github.com/nlohmann/json) for Rcpp.  All credit goes to him.
 
 ## Installation
 
@@ -63,4 +63,3 @@ int unboxme(std::string x) {
 ```
 
 
-[1]: https://github.com/nlohmann/json
